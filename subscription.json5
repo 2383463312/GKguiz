@@ -1,10 +1,8 @@
 {
-  "id": "my-gkd-custom",
-  "name": "我的GKD专属规则(进阶版)",
-  "version": 2,
-  "author": "请填写你的昵称",
-  "checkUpdateUrl": "./gkd.version.json5",
-  "supportUri": "https://github.com/你的用户名/subscription-template/issues/new/choose",
+  "id": 20261113,
+  "name": "我的GKD专属规则",
+  "version": 1,
+  "author": "定制",
   "categories": [
     { "key": 0, "name": "开屏广告", "enable": true },
     { "key": 1, "name": "青少年模式", "enable": false },
